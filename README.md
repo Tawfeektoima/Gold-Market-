@@ -28,13 +28,13 @@ To ensure accurate comparison, we removed all other countries from the original 
 ##  Seasonal & Monthly Trends (Egypt)
 
 - **Quarterly patterns**:
-  - **High buying activity in Q1** (Jan–Mar) → price increases
-  - **Increased selling in Q3** (Jul–Sep) → price decreases
+  -  **High buying activity in Q1** (Jan–Mar) → price increases
+  -  **Increased selling in Q3** (Jul–Sep) → price decreases
   -  <img width="836" height="388" alt="image" src="https://github.com/user-attachments/assets/ae7f1af2-50ea-42cc-bee3-0f4a8c5498b9" />
 
 
 - **Monthly behavior**:
-  - 🛍 At the **start of each month**, buying activity tends to rise, pushing prices up.
+  -  At the **start of each month**, buying activity tends to rise, pushing prices up.
   -  At the **end of each month**, selling increases, leading to price declines.
 
 ---<img width="765" height="341" alt="image" src="https://github.com/user-attachments/assets/49167d05-f2e0-4138-a831-6b93b8b6fb3e" />
